@@ -1,5 +1,5 @@
 ## Olá, meu nome é Ulisses Calixto✌️
-[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.com.br/ulissesgomescalixto@outlook.com)<br/>
+
 ![calixto GitHub stats](https://github-readme-stats.vercel.app/api?username=ulisses-calixto&show_icons=true&theme=transparent)
 
 Por enquanto...
